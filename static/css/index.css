@@ -3,6 +3,11 @@ body {
 }
 
 
+.left {
+  text-align: left;
+  width: 50%;
+}
+
 .footer .icon-link {
     font-size: 25px;
     color: #000;
@@ -154,4 +159,7 @@ body {
 }
 #interpolation-image-wrapper img {
   border-radius: 5px;
+}
+.underline {
+  text-decoration: underline;
 }
